@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\ADS\SENAC\C#\pooCalculaIdade\bin\Debug\net6.0\pooCalculaIdade.exe
+C:\Users\Usuario\Desktop\ADS\SENAC\C#\pooCalculaIdade\bin\Debug\net6.0\pooCalculaIdade.deps.json
+C:\Users\Usuario\Desktop\ADS\SENAC\C#\pooCalculaIdade\bin\Debug\net6.0\pooCalculaIdade.runtimeconfig.json
+C:\Users\Usuario\Desktop\ADS\SENAC\C#\pooCalculaIdade\bin\Debug\net6.0\pooCalculaIdade.dll
+C:\Users\Usuario\Desktop\ADS\SENAC\C#\pooCalculaIdade\bin\Debug\net6.0\pooCalculaIdade.pdb
+C:\Users\Usuario\Desktop\ADS\SENAC\C#\pooCalculaIdade\obj\Debug\net6.0\pooCalculaIdade.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\ADS\SENAC\C#\pooCalculaIdade\obj\Debug\net6.0\pooCalculaIdade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\ADS\SENAC\C#\pooCalculaIdade\obj\Debug\net6.0\pooCalculaIdade.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\ADS\SENAC\C#\pooCalculaIdade\obj\Debug\net6.0\pooCalculaIdade.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\ADS\SENAC\C#\pooCalculaIdade\obj\Debug\net6.0\pooCalculaIdade.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\ADS\SENAC\C#\pooCalculaIdade\obj\Debug\net6.0\pooCalculaIdade.dll
+C:\Users\Usuario\Desktop\ADS\SENAC\C#\pooCalculaIdade\obj\Debug\net6.0\refint\pooCalculaIdade.dll
+C:\Users\Usuario\Desktop\ADS\SENAC\C#\pooCalculaIdade\obj\Debug\net6.0\pooCalculaIdade.pdb
+C:\Users\Usuario\Desktop\ADS\SENAC\C#\pooCalculaIdade\obj\Debug\net6.0\pooCalculaIdade.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\ADS\SENAC\C#\pooCalculaIdade\obj\Debug\net6.0\ref\pooCalculaIdade.dll
